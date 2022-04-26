@@ -1,3 +1,9 @@
+# Project Electrical journey
+
+Start finding and setting up your digital life of your electrical car. Built with latest stable version of yarn!
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
